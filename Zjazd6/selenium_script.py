@@ -15,7 +15,7 @@ okno1_chrome.get('https://www.google.com/')
 okno2_chrome.get('https://allegro.pl')
 
 sleep(3)
-okno1_chrome.find_element('id','L2AGLb').click()
+okno1_chrome.find_element('id','L2AGLb').click()git init
 sleep(3)
 
 search_field = okno1_chrome.find_element('name','q')
