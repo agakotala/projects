@@ -1,5 +1,0 @@
-Funkcja,Zakres wartości,Zalety,Wady,Zastosowanie
-Sigmoid,"(0,1)",Interpretacja jako prawdopodobieństwo,Zanikanie gradientu,Klasyfikacja binarna
-ReLU,"[0,∞)","Szybkie obliczenia, brak zanikania gradientu",Martwe neurony,"Warstwy ukryte w CNN, MLP"
-Tanh,"(-1,1)",Symetryczność względem zera,Zanikanie gradientu,Warstwy ukryte w RNN
-Softmax,"(0,1) (dla każdej klasy)",Klasyfikacja wieloklasowa,Wrażliwość na duże wartości wejściowe,Warstwa wyjściowa w klasyfikacji wieloklasowej
