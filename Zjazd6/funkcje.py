@@ -359,4 +359,4 @@ df = pd.DataFrame(data)
 # Wyświetlenie tabeli
 print(df)
 df.to_excel('funkcje_aktywacji.xlsx', index=False)
-df.to_excel('C:/Users/kstor/Pulpit/funkcje_aktywacji.xlsx', index=False)
+df.to_excel('funkcje_aktywacji.xlsx', index=False)
